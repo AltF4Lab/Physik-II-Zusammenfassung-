@@ -1,0 +1,12 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Elektrostatik}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Ladungserhaltung}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Coulomb Kraft}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Das Elektrische Feld}{4}{}%
+\contentsline {subsection}{\numberline {1.4}Elektrische Leiter in einem elektrischen Feld}{5}{}%
+\contentsline {subsection}{\numberline {1.5}Das Superpositionsprinzip}{6}{}%
+\contentsline {subsection}{\numberline {1.6}Spannung}{6}{}%
+\contentsline {subsection}{\numberline {1.7}Plattenkondensator}{7}{}%
+\contentsline {subsubsection}{\numberline {1.7.1}Beweis für die homogenität des elektrischen Feldes des Plattenkondensators}{8}{}%
+\contentsline {subsection}{\numberline {1.8}Kapazität}{9}{}%
+\contentsline {subsection}{\numberline {1.9}Schaltzeichen eines Plattenkondensators}{10}{}%
