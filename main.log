@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.29)  23 APR 2025 17:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.29)  23 APR 2025 17:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -206,20 +206,20 @@ Package mhchem Warning: You did not specify a 'version' option for the mhchem
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
  (D:\MikTex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count293
@@ -240,9 +240,13 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 
-Package chemgreek Info: Activating mapping `default' on line 12.
+Package chemgreek Info: Activating mapping `default' on line 10.
 
- (main.toc)
+
+
+LaTeX Warning: No \author given.
+
+(main.toc)
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
@@ -251,24 +255,24 @@ Package chemgreek Info: Activating mapping `default' on line 12.
 [1
 
 {C:/Users/Linus Hesmert/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 27--29
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
 
  []
 
 
 
 [2]
-Overfull \hbox (23.03186pt too wide) in paragraph at lines 92--95
+Overfull \hbox (23.03186pt too wide) in paragraph at lines 90--93
 \OT1/cmr/m/n/10 Innerhalb von Ma-te-rie muss die Di-elek-tri-zit[]atskonstante $\OML/cmm/m/it/10 ^^O$ \OT1/cmr/m/n/10 des Me-di-ums ber[]ucksichtigt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--99
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--108
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
 
  []
 
@@ -278,12 +282,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--108
 <Elektrisches Feld .png, id=25, 718.93594pt x 393.72093pt>
 File: Elektrisches Feld .png Graphic file (type png)
 <use Elektrisches Feld .png>
-Package pdftex.def Info: Elektrisches Feld .png  used on input line 134.
+Package pdftex.def Info: Elektrisches Feld .png  used on input line 132.
 (pdftex.def)             Requested size: 276.00105pt x 151.15347pt.
 <Elektrisches Feld Ladungen.png, id=27, 699.36281pt x 313.17pt>
 File: Elektrisches Feld Ladungen.png Graphic file (type png)
 <use Elektrisches Feld Ladungen.png>
-Package pdftex.def Info: Elektrisches Feld Ladungen.png  used on input line 142.
+Package pdftex.def Info: Elektrisches Feld Ladungen.png  used on input line 140.
 (pdftex.def)             Requested size: 276.00105pt x 123.59326pt.
 
 
@@ -291,60 +295,60 @@ Package pdftex.def Info: Elektrisches Feld Ladungen.png  used on input line 142.
 <faraday käfig.png, id=33, 299.61937pt x 278.54062pt>
 File: faraday käfig.png Graphic file (type png)
 <use faraday käfig.png>
-Package pdftex.def Info: faraday käfig.png  used on input line 152.
+Package pdftex.def Info: faraday käfig.png  used on input line 150.
 (pdftex.def)             Requested size: 172.5pt x 160.36786pt.
 
 
 [5 <./Elektrisches Feld Ladungen.png> <./faraday käfig.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 176--178
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--190
+Underfull \hbox (badness 10000) in paragraph at lines 184--188
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--198
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
 
  []
 
 
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 202--204
+Underfull \hbox (badness 10000) in paragraph at lines 200--202
 
  []
 
 <Plattenkondensator.png, id=42, 341.77687pt x 167.87718pt>
 File: Plattenkondensator.png Graphic file (type png)
 <use Plattenkondensator.png>
-Package pdftex.def Info: Plattenkondensator.png  used on input line 219.
+Package pdftex.def Info: Plattenkondensator.png  used on input line 217.
 (pdftex.def)             Requested size: 207.0021pt x 101.68pt.
 
 
 [7 <./Plattenkondensator.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 257--259
+Underfull \hbox (badness 10000) in paragraph at lines 255--257
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--271
+Underfull \hbox (badness 10000) in paragraph at lines 266--269
 
  []
 
 
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 288--291
+Underfull \hbox (badness 10000) in paragraph at lines 286--289
 
  []
 
 <aufbau plattenkondensator.png, id=51, 268.00125pt x 226.59656pt>
 File: aufbau plattenkondensator.png Graphic file (type png)
 <use aufbau plattenkondensator.png>
-Package pdftex.def Info: aufbau plattenkondensator.png  used on input line 313.
+Package pdftex.def Info: aufbau plattenkondensator.png  used on input line 311.
 (pdftex.def)             Requested size: 137.9979pt x 116.67604pt.
 
 
@@ -352,7 +356,7 @@ Package pdftex.def Info: aufbau plattenkondensator.png  used on input line 313.
 <Plattenkondensator schaltplan.png, id=55, 673.01437pt x 292.09125pt>
 File: Plattenkondensator schaltplan.png Graphic file (type png)
 <use Plattenkondensator schaltplan.png>
-Package pdftex.def Info: Plattenkondensator schaltplan.png  used on input line 320.
+Package pdftex.def Info: Plattenkondensator schaltplan.png  used on input line 318.
 (pdftex.def)             Requested size: 276.00105pt x 119.78491pt.
 
 
@@ -365,13 +369,13 @@ L3 programming layer <2024-12-09>
 Here is how much of TeX's memory you used:
  4848 strings out of 473573
  83636 string characters out of 5732845
- 518368 words of memory out of 5000000
+ 518416 words of memory out of 5000000
  27986 multiletter control sequences out of 15000+600000
  564133 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,19n,79p,415b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 65i,19n,79p,450b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Linus Hesmert\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><D:/MikTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr5.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (10 pages, 586720 bytes).
+Output written on main.pdf (10 pages, 588849 bytes).
 PDF statistics:
  123 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
