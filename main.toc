@@ -10,3 +10,4 @@
 \contentsline {subsubsection}{\numberline {1.7.1}Beweis für die homogenität des elektrischen Feldes des Plattenkondensators}{8}{}%
 \contentsline {subsection}{\numberline {1.8}Kapazität}{9}{}%
 \contentsline {subsection}{\numberline {1.9}Schaltzeichen eines Plattenkondensators}{10}{}%
+\contentsline {subsection}{\numberline {1.10}Der elektrische Dipol}{10}{}%
