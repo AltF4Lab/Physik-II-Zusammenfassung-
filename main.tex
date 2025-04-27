@@ -341,8 +341,104 @@ beiden Ladungen (Diese sind beim Dipolmoment identisch).
             &\vec{d}\propto \vec{E}\\
             &\vec{p}\propto \vec{E}
         \end{align}
-    \item Kompliziertere
+    \item Kompliziertere Ladungsverteilungen können in erster Näherung als Dipol angesehen werden. Als Beispiel ist hier 
+    das Wasser Molekül zu nennen.
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.3\textwidth]{Dipole_Water.png}
+        \caption{Wasser Molekül mit Dipolmoment}
+    \end{figure}
 \end{enumerate}
+
+\subsubsection{Homogenes elektrisches Feld}
+Ein homogenes elektrisches Feld ist ein Feld, in dem die elektrische Feldstärke überall gleich groß und gleich gerichtet ist.\\
+Auf eine positive ($q$) und eine negative ($-q$) Ladung $q$ wirkt das elektrische Feld $\vec{E}$.
+Die Kräfte die auf Ladung 1 und Ladung 2 wirken ergeben sich durch:
+\begin{align}
+    \vec{F}_1&=q\vec{E}\\
+    \vec{F}_2&=-q\vec{E}
+\end{align}
+Die resultierende Kraft auf den Dipol ist:
+\begin{align}
+    \vec{F}_\mathrm{Dipol}&=\vec{F}_1+\vec{F}_2\\
+    &=q\vec{E}-q\vec{E}\\
+    &=\vec{0}
+\end{align}
+Der Dipol bleibt jedoch nicht in Ruhe. Es wirkt ein Drehmoment:
+\begin{align}
+    \vec{M}_\mathrm{Dipol}&=\vec{r}_1\times \vec{F}_1+\vec{r}_1\times \vec{F}_2\\
+    &=q\vec{r}_1\times \vec{E}-q\vec{r}_2\times\vec{E}\\
+    &=q(\vec{r}_1-\vec{r}_2)\times\vec{E}\\
+    &=q \vec{d}\times \vec{E}\\
+    &\text{Mit dem Dipolmoment}\ \vec{p}=q\vec{d}\notag\\
+    &=\vec{p}\times \vec{E}
+\end{align}
+Ein Dipol in einem homogenen elektrischen Feld erfährt ein Drehmoment,
+das ihn so ausrichtet, dass sein Dipolmoment parallel zum elektrischen Feld zeigt.
+Sobald diese Ausrichtung erreicht ist, bleibt der Dipol in dieser Stellung,
+weil dann kein Drehmoment mehr auf ihn wirkt.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.80\textwidth]{Dipol im elektrischen Feld.png}
+    \caption{Ein Dipol mit zwei Ladungen (kleine Punkte rot/blau) im Elektrischen Feld mit den vom Elektrischen Feld auf die Ladung wirkenden Kräfte.}
+\end{figure}
+
+
+\subsubsection{Inhomogenes elektrisches Feld}
+Ein inhomogenes elektrisches Feld bedeutet, $\vec{E}(\vec{r})$ ist nicht überall gleich (also homogen) sondern je nach Ort Unterschiedlich.
+Somit ist die Kraft die auf die Ladung wirkt nicht gleich groß, weil das elektrische Feld inhomogen ist.
+\begin{align}
+    \vec{F}_1&=q\vec{E}(\vec{r}_1)\\
+    \vec{F}_2&=-q\vec{E}(\vec{r}_2)
+\end{align}
+Die Gesamtkraft des Dipols ergibt sich als:
+\begin{align}
+    \vec{F}_\mathrm{Dipol}&=\vec{F}_1+\vec{F}_2\\
+    &=q\vec{E}(\vec{r}_1)-q\vec{E}(\vec{r}_2)\\
+    &\not=\vec{0}
+\end{align}
+Diese ist nicht gleich dem Nullvektor, da $E(\vec{r}_1)\not=\vec{E}(\vec{r}_2)$.
+Es existiert im gegensatz zum homogenen elektrischen Feld eine \textbf{resultierende Kraft}, also eine Translationskraft.\\
+
+\noindent Für kleine Dipole, also $d\to 0$ kann die elektrische Feldstärke entwickelt werden. 
+Für eine Dimension (also alle Vektoren sind Parallel) gilt:
+\begin{align}
+    E_2=E_1-\frac{dE}{dx}d
+\end{align}
+Diese Kraft hängt von der Änderung des elektrischen Felds $\frac{dE}{dx}$ und der Größe des Dipolmoments $p=qd$ ab.
+
+\subsection{Dielektrikum}
+Bringt man zwischen die Platten eines Kondensators eine isolierende Platte, so sinkt die Spannung $U$ um den Faktor $\varepsilon$.
+Da die Ladung $Q=C\cdot U=const$ ist, muss sich die Kapazität $C$ um den Faktor $\varepsilon$ erhöhen.
+\begin{align}
+    C_\mathrm{Dielektrikum}=\varepsilon C_\mathrm{Vakuum}=\varepsilon\varepsilon_0\frac{A}{d}
+\end{align}
+mit der relativen Dielektrizitätskonstante $\varepsilon>1$.
+Isolierende Stoffe heißen deshalb auch \textbf{Dielektrika}.
+
+
+\subsection{Der elektrische Strom}
+\subsubsection{Bewegte Ladungen in Feldern}
+Ein Teilchen mit einer Ladung $q$ erfährt im elektrischen Feld die Kraft:
+\begin{align}
+    \vec{F}_E=q\,\vec{E}
+\end{align}
+Hierdurch wird diese beschleunigt. Nach dem 2. Newtonschen Gesetz gilt:
+\begin{align}
+    \vec{F}=\dot{\vec{p}}=m\ddot{\vec{r}}
+\end{align}
+Die Beschleunigung erfolgt in Richtung der Feldlinien.\\
+Die Bewegunsgleichung ergibt sich durch gleichsetzen und Umformen:
+\begin{align}
+    \ddot{\vec{r}}=\frac{q}{m}\vec{E}
+\end{align}
+%%%%%%%%%Seite 11 pptx 4 fertig$%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
 
 
 

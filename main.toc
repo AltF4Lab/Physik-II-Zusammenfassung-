@@ -11,3 +11,8 @@
 \contentsline {subsection}{\numberline {1.8}Kapazität}{9}{}%
 \contentsline {subsection}{\numberline {1.9}Schaltzeichen eines Plattenkondensators}{10}{}%
 \contentsline {subsection}{\numberline {1.10}Der elektrische Dipol}{10}{}%
+\contentsline {subsubsection}{\numberline {1.10.1}Homogenes elektrisches Feld}{11}{}%
+\contentsline {subsubsection}{\numberline {1.10.2}Inhomogenes elektrisches Feld}{12}{}%
+\contentsline {subsection}{\numberline {1.11}Dielektrikum}{13}{}%
+\contentsline {subsection}{\numberline {1.12}Der elektrische Strom}{13}{}%
+\contentsline {subsubsection}{\numberline {1.12.1}Bewegte Ladungen in Feldern}{13}{}%
