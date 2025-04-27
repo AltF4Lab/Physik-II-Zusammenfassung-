@@ -16,3 +16,5 @@
 \contentsline {subsection}{\numberline {1.11}Dielektrikum}{13}{}%
 \contentsline {subsection}{\numberline {1.12}Der elektrische Strom}{13}{}%
 \contentsline {subsubsection}{\numberline {1.12.1}Bewegte Ladungen in Feldern}{13}{}%
+\contentsline {subsection}{\numberline {1.13}Das Ohmsche Gesetz:}{15}{}%
+\contentsline {subsection}{\numberline {1.14}Vorlesung 4 folgt...}{16}{}%

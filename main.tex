@@ -441,13 +441,118 @@ Feld erzeugt, welches zur Ablenkung des Elektronenstrahls dient. Auf einem Leuch
 der Elektronen sichtbar.
 
 \subsubsection*{Physikalische Beschreibung der Brownschen Röhre}
+\begin{itemize}
+\item Ladung: $q_e=-e$
+\item Masse: $m=m_e$
+\end{itemize}
+Das Elektrische Feld ist definiert als:
+\begin{align}
+    \vec{F}=q\cdot \vec{E}
+\end{align}
+Mit dem 2. Newtonschen Gesetz und der Ladung $q=e$ folgt:
+\begin{align}
+    F=m_e\cdot a_e=e\cdot E_a
+\end{align}
+Umstellen nach der Beschleunigung $a_e$ gibt:
+\begin{align}
+    a_e=\frac{e}{m_e}E_a
+\end{align}
+Mit $E_a=\frac{U_a}{d}$ folgt:
+\begin{align}
+    a_e=\frac{eU_a}{m_ed}\label{a_e}
+\end{align}
+Für $a=const$ gilt:
+\begin{align}
+    d=\frac{1}{2}a_et^2
+\end{align}
+Umstellen auf $d$ gibt:
+\begin{align}
+    t=\sqrt{\frac{2d}{a_e}}
+\end{align}
+Mit Gleichung~\ref{a_e} folgt:
+\begin{align}
+    t=\sqrt{\frac{2m_ed^2}{eU_a}}\label{t_e}
+\end{align}
+Da es sich um eine eindimensionale Bewegung mit $a=const$ handelt gilt für die Geschwindigkeit:
+\begin{align}
+    v=a_e\cdot t=\frac{e}{m_e}E_at=\sqrt{\frac{2eU_a}{m_e}}
+\end{align}
 
+\subsubsection*{Ablenkung durch die Platten}
+In den Platten wirkt die transversale Kraft.
+\begin{align}
+    F_p=ma_p=eE_p=e\frac{U_p}{h}
+\end{align}
+Daraus folgt die Transversalbeschleunidung $a_p$ mit:
+\begin{align}
+    a_p=\frac{eU_p}{m_eh}
+\end{align}
+Die Ablenkung $z$ ergibt sich aus der Kinematik für $a_p=const$:
+\begin{align}
+    z=\frac{1}{2}a_pt_p^2
+\end{align}
+Die Flugzeit durch die Platten $t_p$ ergibt sich aus der länge der Platten $l$ und der Geschwindigkeit $v$:
+\begin{align}
+    t_p=\frac{l}{v}=l\sqrt{\frac{m_e}{2eU_a}}
+\end{align}
+Damit den Termen für $a_p$ und $t_p$ berechnet sich die Ablenkung $z(U_p)$ als:
+\begin{align}
+    z(U_p)&=\frac{eU_p}{2m_eh}l^2\frac{m_e}{2eU_a}\\
+    &=\frac{U_pl^2}{4U_ah}
+\end{align}
 
+\vspace{0.5cm}
+\noindent Die Braunsche Röhre kann als Oszilloskop zur Messung schneller Signale verwendet werden.
 
+\subsection{Das Ohmsche Gesetz:}
+Die Spannung $U$ erzeugt in einem Leiter ein homogenes Elektrisches Feld $E$.
+Dies führt zu einem Strom $I$ durch die Fläche A.\\
+Die Stromdichte $j$ ist definiert als:
+\begin{align}
+    j=\frac{I}{A}
+\end{align}
+Die Stärke des Stromes ist proportional zum angelegten elektrischen Feld $E$:
+\begin{align}
+    \vec{j}=\sigma \vec{E}
+\end{align}
+Mit der Leitfähigkeit $\sigma$. Sie ist eine spezifische Materialkonstante. Ihre Einheit ist:
+\begin{align}
+    [\sigma]=\frac{\mathrm{A}}{\mathrm{Vm}}=\frac{1}{\mathrm{(V/A)m}}
+\end{align}
+Das Verhältnis aus angelegter Spannung $U$ zum Strom $I$ nennt man den Widerstand $R$:
+Es gilt:
+\begin{align}
+    R=\frac{U}{I}
+\end{align}
+Mit $[R]=\mathrm{V/A}=1\Omega$ also Ohm.\\
 
+\noindent Das homogene elektrische Feld führt zu einer Potentialdifferenz zwischen den Leiter-Enden.
+\begin{align}
+    \varphi_2-\varphi_1=U&=\int_{0}^{l}E\, dr\\
+    &=E\cdot l\\
+    &=\frac{j}{\sigma}l\\
+    &=\frac{l}{\sigma}\cdot \frac{I}{A}
+\end{align}
+$A$ ist die Querschnittsfläche und $l$ die Länge des Leiters. Daraus folgt:
+\begin{align}
+    U=\frac{l}{\sigma A}I
+\end{align}
+Mit dem Widerstand
+\begin{align}
+    R=\frac{l}{\sigma A}
+\end{align}
+Also ergibt sich:
+\begin{align}
+    U=R(U,I,T,...)\cdot I
+\end{align}
+Der Wiederstand kann von Unterschiedlichen Größen abhängen.
+Bei vielen Leitern ist der Widerstand praktisch konstant.\\
+Dann gilt das Ohm'sche Gesetz:
+\begin{align}
+    \boxed{U=R\cdot I}\qquad (R=const)
+\end{align}
 
-
-
+\subsection{Vorlesung 4 folgt...}
 
 
 
