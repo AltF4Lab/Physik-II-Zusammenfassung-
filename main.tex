@@ -552,13 +552,73 @@ Dann gilt das Ohm'sche Gesetz:
     \boxed{U=R\cdot I}\qquad (R=const)
 \end{align}
 
-\subsection{Vorlesung 4 folgt...}
+\subsection{Ohmsche Widerstände}
+Widerstände sind durch 4 oder 5 Farbringe gekennzeichnet. Aus diesen Ringen können die spezifischen Eigenschaften 
+wie der Wiederstand $R$ und die Toleranz ermittelt werden.
 
+\subsection{Parallelschaltung zweier Widerstände}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\textwidth]{parallelschaltung.png}
+\end{figure}
+Der Gesamtstrom ist:
+\begin{align}
+    I_\text{ges}=I_1+I_2
+\end{align}
+Nach dem Ohmschen Gesetz folgt:
+\begin{align}
+    I_\text{ges}=U\left(\frac{1}{R_1}+\frac{1}{R_2}\right)
+\end{align}
+Mit 
+\begin{align}
+    R_\text{ges}=\frac{U}{I_\text{ges}}
+\end{align}
+folgt:
+\begin{align}
+    R_\text{ges}=\frac{R_1\cdot R_2}{R_1+R_2}
+\end{align}
+Für $N$ Wiederstände gilt:
+\begin{align}
+    \frac{1}{R_\text{ges}}=\sum_{i=1}^{N}\frac{1}{R_i}
+\end{align}
 
+\subsection{Serienschaltung von Widerständen}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\textwidth]{serienschaltung.png}
+\end{figure}
+Für die Spannung gilt:
+\begin{align}
+    U=U_1+U_2
+\end{align}
+Außerdem gilt:
+\begin{align}
+    U_i=R_i\cdot I
+\end{align}
+Somit folgt:
+\begin{align}
+    U=I(R_1+R_2)=I\cdot R_\text{ges}
+\end{align}
+Somit gilt:
+\begin{align}
+    R_\text{ges}=R_1+R_2
+\end{align}
+Für $N$ Wiederstände in Serienschaltung gilt:
+\begin{align}
+    R_\text{ges}?\sum_{i=1}^{N}R_i
+\end{align}
 
-
-
-
+\subsection{Netzwerke und Kirchhoff'sche Regeln}
+$\Rightarrow$ Berechnung von Spannung und Strömen in beliebigen Netzwerken.
+\subsubsection{Kirchhoffsche Regeln}
+\begin{enumerate}
+    \item Die Knotenregel:\\
+        Aufgrund von Ladungserhaltung fließt soviel Strom in einen Knoten wie auch wieder herausfließt.
+        Im Knoten verschwindet die Summe aller Ströme:
+        \begin{align}
+            \sum_{i=1}^{I_i}=0
+        \end{align}
+\end{enumerate}
 
 
 
