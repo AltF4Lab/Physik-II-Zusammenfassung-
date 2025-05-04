@@ -5,6 +5,7 @@
 \usepackage{float}
 \usepackage{xcolor}
 \usepackage{mhchem}
+\usepackage{circuitikz}
 \title{Zusammenfassung Einführung in die Physik Teil 2}
 
 \begin{document}
@@ -618,8 +619,81 @@ $\Rightarrow$ Berechnung von Spannung und Strömen in beliebigen Netzwerken.
         \begin{align}
             \sum_{i=1}^{I_i}=0
         \end{align}
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.5\textwidth]{knotenregel.png}
+            \caption{Grafik zur Knotenregel}
+        \end{figure}
+    \item Die Maschenregel:\\
+        In jeder geschlossenen Masche verschwindet die Summe aller Spannungen
+        \begin{align}
+            \sum_{i=1}^{N}U_i=0
+        \end{align}
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.4\textwidth]{Maschenregel.png}
+            \caption{Grafik zur Maschenregel}
+        \end{figure}
 \end{enumerate}
 
+\subsection{Spannungsteiler}
+Ein \textbf{Spannungsteiler} ist eine Schaltung aus mindestens zwei Widerständen in Reihe, die eine Eingangsspannung $U$ aufteilt. An jedem Widerstand fällt ein Teil der Spannung ab – je nachdem, wie groß der Widerstand ist.
+
+\vspace{1em}
+
+\noindent \textbf{Ziel:} Wir wollen z.\,B. aus einer hohen Spannung (z.\,B. 9 V) eine kleinere Spannung erzeugen (z.\,B. 3 V).
+
+\subsubsection*{1. Unbelasteter Spannungsteiler}
+Ein Unbelasteter SPannungsteiler ist ein Spannungsteiler ohne Verbraucher.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.3\textwidth]{spannungsteiler 1.png}
+    \caption{Schaltplan für einen Unbelasteten Spannungsteiler}
+\end{figure}
+
+\textbf{Gesamtstrom:}
+\begin{align}
+    I =\frac{U}{R_\text{ges}}= \frac{U}{R_1 + R_2}
+\end{align}
+
+
+
+\textbf{Spannung an $R_2$:}
+\begin{align}
+U_2 &= \frac{U}{R_\text{ges}}\cdot R_2\\
+  \frac{U_2}{U}  &=\frac{R_2}{R_1+R_2}
+\end{align}
+
+\textbf{Verhältnisformel:}
+\begin{align}
+    \frac{R_1}{U_1}=\frac{R_2}{U_2}
+\end{align}
+
+\subsubsection*{2. Belasteter Spannungsteiler}
+Ein belasteter Spannungsteiler ist ein Spannungsteiler mit einem Verbraucher.
+Wenn man einen Verbraucher (z.\,B. Lampe, Sensor) mit Widerstand $R_L$ anschließt, beeinflusst das den Spannungsteiler. Der Widerstand $R_2$ und $R_L$ wirken dann wie ein \textbf{Parallelwiderstand}.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.3\textwidth]{spannungsteiler 2.png}
+    \caption{Schaltplan für einen belasteten Spannungsteiler}
+\end{figure}
+
+\noindent \textbf{Parallele Kombination:}
+\begin{align}
+    R_P = \frac{R_2 \cdot R_L}{R_2 + R_L}
+\end{align}
+\textbf{Neue Spannung am Lastwiderstand:}
+\begin{align}
+    U_2 = U \cdot \frac{R_P}{R_1 + R_P}
+\end{align}
+
+\vspace{2em}
+\noindent Der Verbraucher „belastet“ die Schaltung, wodurch $U_2$ kleiner wird als ohne Last.\\
+Ein Spannungsteiler ist also eine Methode eine Spannung aufzuteile, jedoch ist diese Methode empfindlich gegenüber angeschlossenen Verbrauchern.
+
+\subsection{Wheatstonsche Brücke}
+%Vorlesung 4 Folie 8
 
 
 

@@ -22,3 +22,5 @@
 \contentsline {subsection}{\numberline {1.16}Serienschaltung von Widerständen}{17}{}%
 \contentsline {subsection}{\numberline {1.17}Netzwerke und Kirchhoff'sche Regeln}{18}{}%
 \contentsline {subsubsection}{\numberline {1.17.1}Kirchhoffsche Regeln}{18}{}%
+\contentsline {subsection}{\numberline {1.18}Spannungsteiler}{19}{}%
+\contentsline {subsection}{\numberline {1.19}Wheatstonsche Brücke}{20}{}%

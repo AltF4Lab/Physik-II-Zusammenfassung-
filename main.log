@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.1)  4 MAY 2025 12:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.1)  4 MAY 2025 17:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -202,39 +202,263 @@ Package mhchem Warning: You did not specify a 'version' option for the mhchem
 (mhchem)                compatibility mode), because you might get slightly
 (mhchem)                different output with the same input in future versions.
 
-) (main.aux
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/latex/circuitikz\circuitikz.sty
+Package: circuitikz 2025/03/21{} The CircuiTikz circuit drawing package version 1.7.2
+ (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks25
+\pgfutil@tempdima=\dimen165
+\pgfutil@tempdimb=\dimen166
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box57
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks26
+\pgfkeys@temptoks=\toks27
+ (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks28
+))
+\pgf@x=\dimen167
+\pgf@y=\dimen168
+\pgf@xa=\dimen169
+\pgf@ya=\dimen170
+\pgf@xb=\dimen171
+\pgf@yb=\dimen172
+\pgf@xc=\dimen173
+\pgf@yc=\dimen174
+\pgf@xd=\dimen175
+\pgf@yd=\dimen176
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count294
+\c@pgf@countb=\count295
+\c@pgf@countc=\count296
+\c@pgf@countd=\count297
+\t@pgf@toka=\toks29
+\t@pgf@tokb=\toks30
+\t@pgf@tokc=\toks31
+\pgf@sys@id@count=\count298
+ (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count299
+\pgfsyssoftpath@bigbuffer@items=\count300
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen177
+\pgfmath@count=\count301
+\pgfmath@box=\box58
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count302
+)) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen178
+\pgf@picmaxx=\dimen179
+\pgf@picminy=\dimen180
+\pgf@picmaxy=\dimen181
+\pgf@pathminx=\dimen182
+\pgf@pathmaxx=\dimen183
+\pgf@pathminy=\dimen184
+\pgf@pathmaxy=\dimen185
+\pgf@xx=\dimen186
+\pgf@xy=\dimen187
+\pgf@yx=\dimen188
+\pgf@yy=\dimen189
+\pgf@zx=\dimen190
+\pgf@zy=\dimen191
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen192
+\pgf@path@lasty=\dimen193
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen194
+\pgf@shorten@start@additional=\dimen195
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box59
+\pgf@hbox=\box60
+\pgf@layerbox@main=\box61
+\pgf@picture@serial@count=\count303
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen196
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen197
+\pgf@pt@y=\dimen198
+\pgf@pt@temp=\dimen199
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen256
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen257
+\pgf@sys@shading@range@num=\count304
+\pgf@shadingcount=\count305
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box62
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box63
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen258
+\pgf@nodesepend=\dimen259
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen260
+\pgffor@skip=\dimen261
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
+)) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count306
+\pgfplotmarksize=\dimen262
+)
+\tikz@lastx=\dimen263
+\tikz@lasty=\dimen264
+\tikz@lastxsaved=\dimen265
+\tikz@lastysaved=\dimen266
+\tikz@lastmovetox=\dimen267
+\tikz@lastmovetoy=\dimen268
+\tikzleveldistance=\dimen269
+\tikzsiblingdistance=\dimen270
+\tikz@figbox=\box64
+\tikz@figbox@bg=\box65
+\tikz@tempbox=\box66
+\tikz@tempbox@bg=\box67
+\tikztreelevel=\count307
+\tikznumberofchildren=\count308
+\tikznumberofcurrentchild=\count309
+\tikz@fig@count=\count310
+ (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count311
+\pgfmatrixcurrentcolumn=\count312
+\pgf@matrix@numberofcolumns=\count313
+)
+\tikz@expandcount=\count314
+ (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowinset=\dimen271
+\pgfarrowlength=\dimen272
+\pgfarrowwidth=\dimen273
+\pgfarrowlinewidth=\dimen274
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarybending.code.tex
+File: tikzlibrarybending.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulebending.code.tex
+File: pgfmodulebending.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulenonlineartransformations.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgftransformnonlinearflatness=\dimen275
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibrarycurvilinear.code.tex
+File: pgflibrarycurvilinear.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@curvilinear@time@a=\dimen276
+\pgf@curvilinear@length@a=\dimen277
+\pgf@curvilinear@length@b=\dimen278
+\pgf@curvilinear@length@c=\dimen279
+\pgf@curvilinear@length@d=\dimen280
+)
+\pgf@arrows@the@rigidity=\dimen281
+)) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfpu.code.tex (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirc.defines.tex
+\pgf@circ@count@a=\count315
+\pgf@circ@count@b=\count316
+\pgf@circ@count@c=\count317
+\pgf@circ@res@up=\dimen282
+\pgf@circ@res@down=\dimen283
+\pgf@circ@res@zero=\dimen284
+\pgf@circ@res@left=\dimen285
+\pgf@circ@res@right=\dimen286
+\pgf@circ@res@other=\dimen287
+\pgf@circ@res@step=\dimen288
+\pgf@circ@res@temp=\dimen289
+\pgf@circ@Rlen=\dimen290
+\pgf@circ@scaled@Rlen=\dimen291
+\pgfstartlinewidth=\dimen292
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircutils.tex
+\ctikz@scratchbox=\box68
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircpath.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircshapes.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmonopoles.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircbipoles.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirctripoles.tex
+\pgf@circ@res@count=\count318
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircquadpoles.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmultipoles.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirclabel.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircvoltage.tex
+\pgfcirc@labelshift=\dimen293
+) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirccurrent.tex) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircflow.tex)) (main.aux
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 (babel)             Reported  on input line 5.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
  (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count294
-\scratchdimen=\dimen165
-\scratchbox=\box57
-\nofMPsegments=\count295
-\nofMParguments=\count296
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count297
-\MPscratchDim=\dimen166
-\MPnumerator=\count298
-\makeMPintoPDFobject=\count299
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count319
+\scratchdimen=\dimen294
+\scratchbox=\box69
+\nofMPsegments=\count320
+\nofMParguments=\count321
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count322
+\MPscratchDim=\dimen295
+\MPnumerator=\count323
+\makeMPintoPDFobject=\count324
+\everyMPtoPDFconversion=\toks38
 ) (C:\Users\WIN11\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -242,141 +466,141 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 
-Package chemgreek Info: Activating mapping `default' on line 10.
+Package chemgreek Info: Activating mapping `default' on line 11.
 
 
 
 LaTeX Warning: No \author given.
 
 (main.toc)
-\tf@toc=\write3
-\openout3 = `main.toc'.
+\tf@toc=\write4
+\openout4 = `main.toc'.
 
 
 
 [1
 
 {C:/Users/WIN11/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 25--27
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
 
  []
 
 
 
 [2]
-Overfull \hbox (23.03186pt too wide) in paragraph at lines 90--93
+Overfull \hbox (23.03186pt too wide) in paragraph at lines 91--94
 \OT1/cmr/m/n/10 Innerhalb von Ma-te-rie muss die Di-elek-tri-zit[]atskonstante $\OML/cmm/m/it/10 ^^O$ \OT1/cmr/m/n/10 des Me-di-ums ber[]ucksichtigt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--97
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--106
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
 
  []
 
 
 
 [3]
-<Elektrisches Feld .png, id=25, 718.93594pt x 393.72093pt>
+<Elektrisches Feld .png, id=28, 718.93594pt x 393.72093pt>
 File: Elektrisches Feld .png Graphic file (type png)
 <use Elektrisches Feld .png>
-Package pdftex.def Info: Elektrisches Feld .png  used on input line 132.
+Package pdftex.def Info: Elektrisches Feld .png  used on input line 133.
 (pdftex.def)             Requested size: 276.00105pt x 151.15347pt.
-<Elektrisches Feld Ladungen.png, id=27, 699.36281pt x 313.17pt>
+<Elektrisches Feld Ladungen.png, id=30, 699.36281pt x 313.17pt>
 File: Elektrisches Feld Ladungen.png Graphic file (type png)
 <use Elektrisches Feld Ladungen.png>
-Package pdftex.def Info: Elektrisches Feld Ladungen.png  used on input line 140.
+Package pdftex.def Info: Elektrisches Feld Ladungen.png  used on input line 141.
 (pdftex.def)             Requested size: 276.00105pt x 123.59326pt.
 
 
 [4 <./Elektrisches Feld .png>]
-<faraday käfig.png, id=33, 299.61937pt x 278.54062pt>
+<faraday käfig.png, id=36, 299.61937pt x 278.54062pt>
 File: faraday käfig.png Graphic file (type png)
 <use faraday käfig.png>
-Package pdftex.def Info: faraday käfig.png  used on input line 150.
+Package pdftex.def Info: faraday käfig.png  used on input line 151.
 (pdftex.def)             Requested size: 172.5pt x 160.36786pt.
 
 
 [5 <./Elektrisches Feld Ladungen.png> <./faraday käfig.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 174--176
+Underfull \hbox (badness 10000) in paragraph at lines 175--177
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--188
+Underfull \hbox (badness 10000) in paragraph at lines 185--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--196
+Underfull \hbox (badness 10000) in paragraph at lines 195--197
 
  []
 
 
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 200--202
+Underfull \hbox (badness 10000) in paragraph at lines 201--203
 
  []
 
-<Plattenkondensator.png, id=42, 341.77687pt x 167.87718pt>
+<Plattenkondensator.png, id=45, 341.77687pt x 167.87718pt>
 File: Plattenkondensator.png Graphic file (type png)
 <use Plattenkondensator.png>
-Package pdftex.def Info: Plattenkondensator.png  used on input line 217.
+Package pdftex.def Info: Plattenkondensator.png  used on input line 218.
 (pdftex.def)             Requested size: 207.0021pt x 101.68pt.
 
 
 [7 <./Plattenkondensator.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 255--257
+Underfull \hbox (badness 10000) in paragraph at lines 256--258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--269
+Underfull \hbox (badness 10000) in paragraph at lines 267--270
 
  []
 
 
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 286--289
+Underfull \hbox (badness 10000) in paragraph at lines 287--290
 
  []
 
-<aufbau plattenkondensator.png, id=51, 268.00125pt x 226.59656pt>
+<aufbau plattenkondensator.png, id=54, 268.00125pt x 226.59656pt>
 File: aufbau plattenkondensator.png Graphic file (type png)
 <use aufbau plattenkondensator.png>
-Package pdftex.def Info: aufbau plattenkondensator.png  used on input line 311.
+Package pdftex.def Info: aufbau plattenkondensator.png  used on input line 312.
 (pdftex.def)             Requested size: 137.9979pt x 116.67604pt.
 
 
 [9]
-<Plattenkondensator schaltplan.png, id=55, 673.01437pt x 292.09125pt>
+<Plattenkondensator schaltplan.png, id=58, 673.01437pt x 292.09125pt>
 File: Plattenkondensator schaltplan.png Graphic file (type png)
 <use Plattenkondensator schaltplan.png>
-Package pdftex.def Info: Plattenkondensator schaltplan.png  used on input line 318.
+Package pdftex.def Info: Plattenkondensator schaltplan.png  used on input line 319.
 (pdftex.def)             Requested size: 276.00105pt x 119.78491pt.
 
 
 [10 <./aufbau plattenkondensator.png> <./Plattenkondensator schaltplan.png>]
-<Dipole_Water.png, id=61, 305.14pt x 299.1175pt>
+<Dipole_Water.png, id=64, 305.14pt x 299.1175pt>
 File: Dipole_Water.png Graphic file (type png)
 <use Dipole_Water.png>
-Package pdftex.def Info: Dipole_Water.png  used on input line 348.
+Package pdftex.def Info: Dipole_Water.png  used on input line 349.
 (pdftex.def)             Requested size: 103.50105pt x 101.4567pt.
-<Dipol im elektrischen Feld.png, id=62, 319.1925pt x 158.5925pt>
+<Dipol im elektrischen Feld.png, id=65, 319.1925pt x 158.5925pt>
 File: Dipol im elektrischen Feld.png Graphic file (type png)
 <use Dipol im elektrischen Feld.png>
-Package pdftex.def Info: Dipol im elektrischen Feld.png  used on input line 382.
+Package pdftex.def Info: Dipol im elektrischen Feld.png  used on input line 383.
 (pdftex.def)             Requested size: 276.00105pt x 137.1322pt.
 
 
 [11 <./Dipole_Water.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 399--402
+Underfull \hbox (badness 10000) in paragraph at lines 400--403
 
  []
 
@@ -387,48 +611,74 @@ Underfull \hbox (badness 10000) in paragraph at lines 399--402
 [13]
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 526--528
+Underfull \hbox (badness 10000) in paragraph at lines 527--529
 
  []
 
 
 
 [15]
-<parallelschaltung.png, id=81, 224.037pt x 195.73125pt>
+<parallelschaltung.png, id=84, 224.037pt x 195.73125pt>
 File: parallelschaltung.png Graphic file (type png)
 <use parallelschaltung.png>
-Package pdftex.def Info: parallelschaltung.png  used on input line 562.
+Package pdftex.def Info: parallelschaltung.png  used on input line 563.
 (pdftex.def)             Requested size: 137.9979pt x 120.56364pt.
 
 
 [16 <./parallelschaltung.png>]
-<serienschaltung.png, id=86, 215.00325pt x 212.59425pt>
+<serienschaltung.png, id=89, 215.00325pt x 212.59425pt>
 File: serienschaltung.png Graphic file (type png)
 <use serienschaltung.png>
-Package pdftex.def Info: serienschaltung.png  used on input line 588.
+Package pdftex.def Info: serienschaltung.png  used on input line 589.
 (pdftex.def)             Requested size: 137.9979pt x 136.45236pt.
 
 
 [17 <./serienschaltung.png>]
+<knotenregel.png, id=94, 605.26125pt x 286.06876pt>
+File: knotenregel.png Graphic file (type png)
+<use knotenregel.png>
+Package pdftex.def Info: knotenregel.png  used on input line 624.
+(pdftex.def)             Requested size: 172.5pt x 81.53044pt.
+<Maschenregel.png, id=95, 359.54324pt x 313.77225pt>
+File: Maschenregel.png Graphic file (type png)
+<use Maschenregel.png>
+Package pdftex.def Info: Maschenregel.png  used on input line 634.
+(pdftex.def)             Requested size: 137.9979pt x 120.43163pt.
 
-[18] (main.aux)
+
+[18 <./knotenregel.png> <./Maschenregel.png>]
+<spannungsteiler 1.png, id=101, 205.9695pt x 228.855pt>
+File: spannungsteiler 1.png Graphic file (type png)
+<use spannungsteiler 1.png>
+Package pdftex.def Info: spannungsteiler 1.png  used on input line 650.
+(pdftex.def)             Requested size: 103.50105pt x 114.99991pt.
+<spannungsteiler 2.png, id=102, 244.5135pt x 205.9695pt>
+File: spannungsteiler 2.png Graphic file (type png)
+<use spannungsteiler 2.png>
+Package pdftex.def Info: spannungsteiler 2.png  used on input line 678.
+(pdftex.def)             Requested size: 103.50105pt x 87.18544pt.
+
+
+[19 <./spannungsteiler 1.png>]
+
+[20 <./spannungsteiler 2.png>] (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4869 strings out of 469959
- 87121 string characters out of 5469835
- 508241 words of memory out of 5000000
- 31613 multiletter control sequences out of 15000+600000
+ 33006 strings out of 469959
+ 855153 string characters out of 5469835
+ 1487049 words of memory out of 5000000
+ 59478 multiletter control sequences out of 15000+600000
  632889 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,19n,71p,449b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,19n,101p,522b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\WIN11\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (18 pages, 647051 bytes).
+Output written on main.pdf (20 pages, 737982 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
+ 174 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
