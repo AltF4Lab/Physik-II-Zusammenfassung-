@@ -24,3 +24,6 @@
 \contentsline {subsubsection}{\numberline {1.17.1}Kirchhoffsche Regeln}{18}{}%
 \contentsline {subsection}{\numberline {1.18}Spannungsteiler}{19}{}%
 \contentsline {subsection}{\numberline {1.19}Wheatstonsche Brücke}{20}{}%
+\contentsline {subsection}{\numberline {1.20}Parallelschaltung von Kondensatoren}{20}{}%
+\contentsline {subsection}{\numberline {1.21}Serienschaltung von Kondensatoren}{21}{}%
+\contentsline {subsection}{\numberline {1.22}Laden und Entladen von Kondensatoren}{22}{}%

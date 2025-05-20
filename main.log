@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.1)  4 MAY 2025 17:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.1)  20 MAY 2025 08:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -660,25 +660,58 @@ Package pdftex.def Info: spannungsteiler 2.png  used on input line 678.
 
 
 [19 <./spannungsteiler 1.png>]
+<Parallelschaltung von Kondensatoren.png, id=108, 173.448pt x 187.29974pt>
+File: Parallelschaltung von Kondensatoren.png Graphic file (type png)
+<use Parallelschaltung von Kondensatoren.png>
+Package pdftex.def Info: Parallelschaltung von Kondensatoren.png  used on input line 702.
+(pdftex.def)             Requested size: 103.50105pt x 111.76624pt.
 
-[20 <./spannungsteiler 2.png>] (main.aux)
+
+[20 <./spannungsteiler 2.png> <./Parallelschaltung von Kondensatoren.png>]
+<Serienschaltung von Kondensatoren.png, id=114, 178.86826pt x 190.91325pt>
+File: Serienschaltung von Kondensatoren.png Graphic file (type png)
+<use Serienschaltung von Kondensatoren.png>
+Package pdftex.def Info: Serienschaltung von Kondensatoren.png  used on input line 724.
+(pdftex.def)             Requested size: 103.50105pt x 110.47049pt.
+<Laden und entladen von Kondensatoren.png, id=115, 338.4645pt x 179.4705pt>
+File: Laden und entladen von Kondensatoren.png Graphic file (type png)
+<use Laden und entladen von Kondensatoren.png>
+Package pdftex.def Info: Laden und entladen von Kondensatoren.png  used on input line 746.
+(pdftex.def)             Requested size: 172.5pt x 91.46849pt.
+
+
+[21 <./Serienschaltung von Kondensatoren.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 748--751
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--772
+
+ []
+
+
+
+[22 <./Laden und entladen von Kondensatoren.png>]
+
+[23] (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 33006 strings out of 469959
- 855153 string characters out of 5469835
- 1487049 words of memory out of 5000000
- 59478 multiletter control sequences out of 15000+600000
+ 33027 strings out of 469959
+ 856109 string characters out of 5469835
+ 1487048 words of memory out of 5000000
+ 59499 multiletter control sequences out of 15000+600000
  632889 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,19n,101p,522b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\WIN11\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/WIN11/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (20 pages, 737982 bytes).
+Output written on main.pdf (23 pages, 791272 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
+ 189 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -696,8 +696,121 @@ Ein Spannungsteiler ist also eine Methode eine Spannung aufzuteile, jedoch ist d
 %Vorlesung 4 Folie 8
 
 
+\subsection{Parallelschaltung von Kondensatoren}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.3\textwidth]{Parallelschaltung von Kondensatoren.png}
+\end{figure}
+Für jeden einzelnen Kondesator gilt
+\begin{align}
+    Q_1=C_1U\qquad Q_2=C_2U
+\end{align}
+Die Gesamtladung auf den Kondensatorplatten ist
+\begin{align}
+    Q_\text{ges}&=Q_1+Q_2\\
+    &=C_1U+C_2U\\
+    &=(C_1+C_2)U\\
+    &=C_\text{ges}U
+\end{align}
+Daraus folgt $C_\text{ges}=C_1+C_2$.\\
+Verallgemeinerung auf $N$ parallel geschaltete Kondensatoren ergibt
+\begin{align}
+    C_\text{ges}=\sum_{i=1}^{N}C_i
+\end{align}
 
+\subsection{Serienschaltung von Kondensatoren}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.3\textwidth]{Serienschaltung von Kondensatoren.png}
+\end{figure}
+Für jeden Kondensator gilt jetzt (mit $q_1=Q_2=Q$)
+\begin{align}
+    Q=C_1U_1\qquad Q=C_2U_2
+\end{align}
+Die Gesamtspannung setzt sich aus Einzelspannungen zusammen 
+\begin{align}
+    U&=U_1+U_2\\
+    &=\frac{Q}{C_1}+\frac{Q}{C_2}\\
+    &=Q\left(\frac{1}{C_1}+\frac{1}{C_2}\right)\\
+    &=Q\frac{1}{C_\text{ges}}
+\end{align}
+Daraus folgt $\frac{1}{C_\text{ges}}=\frac{1}{C_1}+\frac{1}{C_2}$.\\
+Verallgemeinerung auf $N$ in Serie geschaltete Kondensatoren ergibt
+\begin{align}
+    \frac{1}{C_\text{ges}}=\sum_{i=1}^{N}\frac{1}{C_i}
+\end{align}
 
+\subsection{Laden und Entladen von Kondensatoren}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{Laden und entladen von Kondensatoren.png}
+\end{figure}
+Zunächst wird der Kondensator über einen Schalter mit einer Batterie verbunden
+und lädt sich dabei auf die Spannung $U_0$ auf. Danach wird umgeschaltet,
+so dass der Strom über $I_R$ abfließt.\\
+
+\noindent Es soll nun die Spannung $U(t)$ berechnet werden,
+die über einen Kondensator der Kapazität $C$ beim Aufladen über einen Widerstand $R$ 
+abfällt.\\
+Der Strom durch den Kondensator ist 
+\begin{align}
+    I(t)=\frac{U_0-U(t)}{R}
+\end{align}
+Gleichzeitig gilt
+\begin{align}
+    \frac{d Q}{dt}=I(t)=C\frac{dU(t)}{dt}
+\end{align}
+Daraus ergibt sich durch Gleichsetzen eine Differentialgleichung für $U(t)$
+\begin{align}
+    C\frac{dU(t)}{dt}=\frac{U_0-U(t)}{R}
+\end{align}
+Dies lässt sich umformen zu 
+\begin{align}
+    \frac{dU(t)}{dt}+\frac{1}{RC}U(t)=\frac{U_0}{RC}
+\end{align}
+Die Lineare DGL 1. Ordnung mit konstanten Koeffizienten, jetzt aber inhomogen.\\
+
+\noindent Die Lösung der homogenen Gleichung lautet 
+\begin{align}
+    U_h(t)=A\exp\left(-\frac{t}{RC}\right)
+\end{align}
+Eine partikuläre Lösung $U_p(t)$ ergibt sich leicht aus der Bedingung
+\begin{align}
+    \lim_{t\to\infty} U_p(t)=U_0
+\end{align}
+Also gilt für die Gesamtlösung
+\begin{align}
+    U(t)&=U_p(t)+U_h(t)\\
+    &=U_0+A\exp\left(-\frac{t}{RC}\right)
+\end{align}
+Die konstante $A$ ist mit der Anfangsbedingung $U(t)=0$ für
+$t=0$ festgelegt.
+\begin{align}
+    U(0)=U_0+A=0\quad \Leftrightarrow \quad A=-U_0
+\end{align}
+Damit ergibt sich die gesuchte Aufladekurve eines Kondensators
+\begin{align}
+    U(t)=U_0\left[1-\exp\left(-\frac{t}{RC}\right)\right]
+\end{align}
+Aus $Q=CU$ folgt
+\begin{align}
+    \frac{dQ_c}{dt}=I_C=-C\frac{dU}{dt} \quad \text{und}\quad T_R=\frac{U}{R}
+\end{align}
+Da beim Entladen $I_C=I_R$ ist, folgt
+\begin{align}
+    &\frac{dU(t)}{dt}=-\frac{1}{RC}U(t)\\
+    \Rightarrow &\frac{dU(t)}{dt}+\frac{1}{RC}U(t)=0
+\end{align}
+Lineare, homogene DGL 1. Ordnung mit konstanten Koeffizienten
+für die Funktion $U(t)$. Die Lösung lautet 
+\begin{align}
+    U(t)=U_0\exp\left(-\frac{t}{RC}\right)
+\end{align}
+$U_0$ ist die Spannung zum Zeitpunkt $t=0$. $U(t)$ und damit auch der Entladestrom
+$I_R(t)=U(t)/R$ klingen exponentiell ab mit Zeitkonstanten
+\begin{align}
+    \tau=RC
+\end{align}
 
 
 
