@@ -1,29 +1,30 @@
 \babel@toc {ngerman}{}\relax 
-\contentsline {section}{\numberline {1}Elektrostatik}{2}{}%
-\contentsline {subsection}{\numberline {1.1}Ladungserhaltung}{2}{}%
-\contentsline {subsection}{\numberline {1.2}Coulomb Kraft}{3}{}%
-\contentsline {subsection}{\numberline {1.3}Das Elektrische Feld}{4}{}%
-\contentsline {subsection}{\numberline {1.4}Elektrische Leiter in einem elektrischen Feld}{5}{}%
-\contentsline {subsection}{\numberline {1.5}Das Superpositionsprinzip}{6}{}%
-\contentsline {subsection}{\numberline {1.6}Spannung}{6}{}%
-\contentsline {subsection}{\numberline {1.7}Plattenkondensator}{7}{}%
-\contentsline {subsubsection}{\numberline {1.7.1}Beweis für die homogenität des elektrischen Feldes des Plattenkondensators}{8}{}%
-\contentsline {subsection}{\numberline {1.8}Kapazität}{9}{}%
-\contentsline {subsection}{\numberline {1.9}Schaltzeichen eines Plattenkondensators}{10}{}%
-\contentsline {subsection}{\numberline {1.10}Der elektrische Dipol}{10}{}%
-\contentsline {subsubsection}{\numberline {1.10.1}Homogenes elektrisches Feld}{11}{}%
-\contentsline {subsubsection}{\numberline {1.10.2}Inhomogenes elektrisches Feld}{12}{}%
-\contentsline {subsection}{\numberline {1.11}Dielektrikum}{13}{}%
-\contentsline {subsection}{\numberline {1.12}Der elektrische Strom}{13}{}%
-\contentsline {subsubsection}{\numberline {1.12.1}Bewegte Ladungen in Feldern}{13}{}%
-\contentsline {subsection}{\numberline {1.13}Das Ohmsche Gesetz:}{15}{}%
-\contentsline {subsection}{\numberline {1.14}Ohmsche Widerstände}{16}{}%
-\contentsline {subsection}{\numberline {1.15}Parallelschaltung zweier Widerstände}{16}{}%
-\contentsline {subsection}{\numberline {1.16}Serienschaltung von Widerständen}{17}{}%
-\contentsline {subsection}{\numberline {1.17}Netzwerke und Kirchhoff'sche Regeln}{18}{}%
-\contentsline {subsubsection}{\numberline {1.17.1}Kirchhoffsche Regeln}{18}{}%
-\contentsline {subsection}{\numberline {1.18}Spannungsteiler}{19}{}%
-\contentsline {subsection}{\numberline {1.19}Wheatstonsche Brücke}{20}{}%
-\contentsline {subsection}{\numberline {1.20}Parallelschaltung von Kondensatoren}{20}{}%
-\contentsline {subsection}{\numberline {1.21}Serienschaltung von Kondensatoren}{21}{}%
-\contentsline {subsection}{\numberline {1.22}Laden und Entladen von Kondensatoren}{22}{}%
+\contentsline {section}{\numberline {1}Elektrostatik}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Ladungserhaltung}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Coulomb Kraft}{4}{}%
+\contentsline {subsection}{\numberline {1.3}Das Elektrische Feld}{5}{}%
+\contentsline {subsection}{\numberline {1.4}Elektrische Leiter in einem elektrischen Feld}{6}{}%
+\contentsline {subsection}{\numberline {1.5}Das Superpositionsprinzip}{7}{}%
+\contentsline {subsection}{\numberline {1.6}Spannung}{7}{}%
+\contentsline {subsection}{\numberline {1.7}Plattenkondensator}{8}{}%
+\contentsline {subsubsection}{\numberline {1.7.1}Beweis für die homogenität des elektrischen Feldes des Plattenkondensators}{9}{}%
+\contentsline {subsection}{\numberline {1.8}Kapazität}{10}{}%
+\contentsline {subsection}{\numberline {1.9}Schaltzeichen eines Plattenkondensators}{11}{}%
+\contentsline {subsection}{\numberline {1.10}Der elektrische Dipol}{11}{}%
+\contentsline {subsubsection}{\numberline {1.10.1}Homogenes elektrisches Feld}{12}{}%
+\contentsline {subsubsection}{\numberline {1.10.2}Inhomogenes elektrisches Feld}{13}{}%
+\contentsline {subsection}{\numberline {1.11}Dielektrikum}{14}{}%
+\contentsline {subsection}{\numberline {1.12}Der elektrische Strom}{14}{}%
+\contentsline {subsubsection}{\numberline {1.12.1}Bewegte Ladungen in Feldern}{14}{}%
+\contentsline {subsection}{\numberline {1.13}Das Ohmsche Gesetz:}{16}{}%
+\contentsline {subsection}{\numberline {1.14}Ohmsche Widerstände}{17}{}%
+\contentsline {subsection}{\numberline {1.15}Parallelschaltung zweier Widerstände}{18}{}%
+\contentsline {subsection}{\numberline {1.16}Serienschaltung von Widerständen}{19}{}%
+\contentsline {subsection}{\numberline {1.17}Netzwerke und Kirchhoff'sche Regeln}{19}{}%
+\contentsline {subsubsection}{\numberline {1.17.1}Kirchhoffsche Regeln}{19}{}%
+\contentsline {subsection}{\numberline {1.18}Spannungsteiler}{20}{}%
+\contentsline {subsection}{\numberline {1.19}Wheatstonsche Brücke}{22}{}%
+\contentsline {subsection}{\numberline {1.20}Parallelschaltung von Kondensatoren}{22}{}%
+\contentsline {subsection}{\numberline {1.21}Serienschaltung von Kondensatoren}{23}{}%
+\contentsline {subsection}{\numberline {1.22}Laden und Entladen von Kondensatoren}{23}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
