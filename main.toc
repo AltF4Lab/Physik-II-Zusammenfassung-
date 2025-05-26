@@ -27,4 +27,8 @@
 \contentsline {subsection}{\numberline {1.20}Parallelschaltung von Kondensatoren}{22}{}%
 \contentsline {subsection}{\numberline {1.21}Serienschaltung von Kondensatoren}{23}{}%
 \contentsline {subsection}{\numberline {1.22}Laden und Entladen von Kondensatoren}{23}{}%
+\contentsline {section}{\numberline {2}Magnetostatik}{26}{}%
+\contentsline {subsection}{\numberline {2.1}Das Ampère'sche Gesetz}{28}{}%
+\contentsline {subsection}{\numberline {2.2}Magnetfeld einer langen stromdurchflossenen Spule}{28}{}%
+\contentsline {subsection}{\numberline {2.3}Magnetfeld einer Spule mit Eisenkern}{30}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

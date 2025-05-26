@@ -821,18 +821,120 @@ Mit der Einheit $[\tau]=\SI{1}{\frac{V}{A}\frac{A s}{V}}=\SI{1}{s}$.
 \end{align}
 
 
+%Vorlesung 5
+\newpage
+\section{Magnetostatik}
+Während statische Ladungen von elektrischen Feldern umgeben sind, sind magnetische Materialien
+(z.B. Eisen) von Magnetfeldern umgeben.\\
+Ein Magnet ist ein Dipol. Im Gegensatz zu elektrischen Ladungen, die einzeln
+auftreten können, gibt es keine einzelnen Magnetpole. Starke Permanent-Magnete sind zum Beispiel \ce{Nd2Fe14B}.\\
 
+\noindent Fließende Ladungen, also Ströme in einem Leiter erzeugen Magnetfelder.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\textwidth]{Magnetfeld.png}
+    \caption{Ein Stromdurchfließender Leiter bildet ein Magnetfeld.}
+\end{figure}
+\noindent Im Gegensatz zu elektrischen Feldlinien sind Magnetfeldlinien immer geschlossen.
+Die Feldlinien geben Kraftwirkung (Richtung und Stärke) des Magnetfeldes an.
+Die Richtung der Magnetfeldlinien kann einfach mit der rechten Hand demonstriert werden.
+Dabei zeigt der Daumen in Richtung des Stroms uns die Gekrümmten Finger geben die Richtung des Magnetfeldes an.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\textwidth]{rechte Hand.png}
+    \caption{Mit der rechten Hand Regel kann die Richtung des Magnetfeldes ermittelt werden.}
+\end{figure}
+Das Magnetfeld eines geraden Leiters durch den der Strom $I$ fließt wird beschrieben durch
+\begin{align}
+    \vec{B}(\vec{r})=B(r)\cdot \vec{e}_\varphi.
+\end{align}
+Das Feld kann nur vom Abstand $r$ des Leiters abhängen. Die Feldlinien sind konzentrische Kreise.
+$\vec{e}_\varphi$ ist der Einheitsvektor in Polarkoordinaten. Experimentel findet man für den 
+Betrag von $B(r)$
+\begin{align}
+    B(r)\propto \frac{I}{r}.
+\end{align}
+Mit der Proportionalitätskonstante $\frac{\mu_0}{2\pi}$ ist das Magnetfeld eines stromdurchflossenden
+Leiters daher
+\begin{align}
+    \vec{B}(\vec{r})=\frac{\mu_0}{2\pi}\frac{I}{r}\vec{e}_\varphi.
+\end{align}
+Hierbei ist zu beachten:
+\begin{enumerate}
+    \item $\mu_0$ ist die magnetische Permeabilität des Vakuums. Sie wird auch als magnetische Feldkonstante bezeichnet.
+    Ihr Wert ist $\mu_0=4\pi\cdot\SI{ e-7}{\frac{V s}{A m}}$. Die Einheit des Magnetfelds ist damit $[\vec{B}]=\SI{1}{\frac{V s}{m^2}}=\SI{1}{T}$, also Tesla.
+    \item In Materie muss die Formel für das Magnetfeld eines Leiters abgeändert werden. Mit der Permeabilität $\mu$ des Mediums gilt
+    \begin{align}
+        \vec{B}(\vec{r})=\frac{\mu_0\mu}{2\pi}\frac{I}{r}\vec{e}_\varphi.
+    \end{align}
+    Das heißt $\mu_0$ muss durch das Produkt $\mu_0\cdot \mu$ ersetzt werden.
+    \item Der Leiter ist hier als unendlich ausgedehnt angenommen worden. Deswegen fällt das Feld nur wie $\frac{1}{r}$ ab und nicht gemäß $\frac{1}{r^2}$ wie im Falle von elektrischen Punktladungen.
+\end{enumerate}
 
-%%Vorlesung 5 folgt...
+\subsection{Das Ampère'sche Gesetz}
+Das Magnetfeld eines graden stromdurchflossenden Leiters lässt sich Verallgemeinern.
+Das Resultat 
+\begin{align}
+    \vec{B}(\vec{r})=\frac{\mu_0}{2\pi}\frac{I}{r}\vec{e}_\varphi
+\end{align}
+lässt sich Umformen zu 
+\begin{align}
+    \vec{B}(\vec{r})2\pi r=\mu_0 I \vec{e}_\varphi,\\
+    \vec{B}(\vec{r})\cdot \vec{e}_\varphi 2\pi r=\mu_0 I
+\end{align}
+Das $\vec{B}(\vec{r})$ nur eine $\varphi$-Komponente hat, entspricht dies einem Wegintegral entlang der kreisförmigen Schleife mit Radius $r$ um den Leiter
+\begin{align}    
+\boxed{\oint \vec{B}(\vec{r})\, d\vec{r}=\mu_0 I}
+\end{align}
+Das Wegintegral über das Vektorfeld $\vec{B}(\vec{r})$ entlang des Kreises mit dem Radius $r$, der den Strom $I$ umfasst ist $\mu_0 I$.\\
 
+\noindent Die Gleichung bedeutet anschaulich, dass (stationäre) Ströme (statische) magnetische Felder hervorrufen.
+Magnetfelder werden generell durch das Fließen von Strömen erklärt.
+Das bedeutet z.B. dass in einem magnetischen Stück Eisen mikroskopische Ströme fließen.
+Das Wegintegral in der Gleichung darf entlang jeder beliebig geformten geschlossenen Kurve, die den Strom $I$ umschließt berechnet werden.
 
+\subsection{Magnetfeld einer langen stromdurchflossenen Spule}
+Das Magnetfeld einer Spule entsteht dadurch, dass die Feldlinien der einzelnen Leiter nach der Rechten handregel im Querschnitt unterschiedlich Laufen. So 
+läuft das Feld durch das Innere der Spule.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{Magnetfeld Spule.png}
+    \caption{Im Querschnitt verläuft das Magnetfeld der Drahte von Oben im Uhrzeigersinn, da die Spannung ins Bild dort hineingeht (rechte Handregel). Bei den unteren Drähten kommt der Strom aus dem Bild raus also verläuft das Feld gegen den Uhrzeigersinn (rechte Hand). }
+\end{figure}
+Das Magnetfeld im Inneren einer Spule der Länge $l$ kann mit dem Ampère'schen Gesetz berechnet werden.
+Näherungsweise gilt für das Magnetfeld innerhalb der Spule $\vec{B}=\vec{B}_0=\vec{const}$ und im Außenraum $\vec{B}=\vec{0}$.
 
+\subsection*{Herleitung des Magnetfelds einer langen Spule}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{Magnetfeld Spule Herleitung.png}
+    \caption{Der Weg des Kreisintegrals wird aufgeteilt in innerhalb und außerhalb liegenden Teil der Spule.}
+\end{figure}
+\begin{align}
+    \oint \vec{B}(\vec{r}) \cdot d\vec{r} &= \int_{A}^{B} dx + \oint \vec{B}(\vec{r}) \cdot d\vec{r} = \mu_0 N I \label{153}\\
+    &= \vec{B} \cdot L \cdot \vec{e}_x + 0 = \mu_0 N I\label{154}
+\end{align}
+Das Integral im ersten Schritt wird in den Weg innerhalb der Spule und den Weg außerhalb der Süule aufgeteilt. Das Wegintegral außerhalb ist annähernd null.
+Das Integral im inneren der Spule lässt sich lösen. Für $x$ wird $L\vec{e}_x$ eingesetzt, da $L$ die Länge von Strecke $x$ ist und diese in $x$-Richtung zeigen muss.
+Nun kann die letzte Gleichung umgestellt werden und es folgt 
+\begin{align}
+    B=\mu_0\frac{N\cdot I}{L}
+\end{align}
+Diese Formel ist für dicht gewickelte Spulen mit großer Windungszahldichte $\frac{N}{L}$ sehr genau.
 
+\subsection{Magnetfeld einer Spule mit Eisenkern}
+Das Magnetfeld einer Spule vergrößert sich, wenn ein Eisenkern in die Spule geschoben wird.
+Andere Materialien zeigen nahezu keinen Effekt oder verringern das Magnetfeld sogar.
+Es gilt \begin{align}
+    B=\mu_0\frac{N\cdot I}{l}
+\end{align}
+Mit Materie gilt aus $\mu_0$ wird $\mu_0\cdot \mu$ also 
+\begin{align}
+    B=\mu_0\mu\frac{N\cdot I}{l}
+\end{align}
+Da für Eisen $\mu=5000$ gilt ergibt sich die große Verstärkung mit dem Eisen-Kern.
 
-
-
-
-
+%Folie: Dia-, Para-, Ferromagnete
 
 
 

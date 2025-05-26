@@ -140,9 +140,9 @@ INPUT C:\Users\WIN11\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 INPUT C:\Users\WIN11\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Users\WIN11\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
 INPUT C:\Users\WIN11\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-OUTPUT main.toc
 OUTPUT main.pdf
 INPUT C:\Users\WIN11\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+OUTPUT main.toc
 INPUT C:\Users\WIN11\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
 INPUT C:\Users\WIN11\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT C:\Users\WIN11\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
@@ -267,6 +267,34 @@ INPUT .\Laden und entladen von Kondensatoren.png
 INPUT .\Laden und entladen von Kondensatoren.png
 INPUT .\Laden und entladen von Kondensatoren.png
 INPUT .\Laden und entladen von Kondensatoren.png
+INPUT .\Magnetfeld.png
+INPUT .\Magnetfeld.png
+INPUT .\Magnetfeld.png
+INPUT .\Magnetfeld.png
+INPUT .\Magnetfeld.png
+INPUT .\Magnetfeld.png
+INPUT .\Magnetfeld.png
+INPUT .\rechte Hand.png
+INPUT .\rechte Hand.png
+INPUT .\rechte Hand.png
+INPUT .\rechte Hand.png
+INPUT .\rechte Hand.png
+INPUT .\rechte Hand.png
+INPUT .\rechte Hand.png
+INPUT .\Magnetfeld Spule.png
+INPUT .\Magnetfeld Spule.png
+INPUT .\Magnetfeld Spule.png
+INPUT .\Magnetfeld Spule.png
+INPUT .\Magnetfeld Spule.png
+INPUT .\Magnetfeld Spule.png
+INPUT .\Magnetfeld Spule.png
+INPUT .\Magnetfeld Spule Herleitung.png
+INPUT .\Magnetfeld Spule Herleitung.png
+INPUT .\Magnetfeld Spule Herleitung.png
+INPUT .\Magnetfeld Spule Herleitung.png
+INPUT .\Magnetfeld Spule Herleitung.png
+INPUT .\Magnetfeld Spule Herleitung.png
+INPUT .\Magnetfeld Spule Herleitung.png
 INPUT main.aux
 INPUT C:\Users\WIN11\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\WIN11\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
